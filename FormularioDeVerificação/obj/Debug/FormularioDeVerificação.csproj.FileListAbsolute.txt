@@ -1,0 +1,10 @@
+C:\Users\JoJi\source\repos\FormularioDeVerificação\FormularioDeVerificação\bin\Debug\FormularioDeVerificação.exe.config
+C:\Users\JoJi\source\repos\FormularioDeVerificação\FormularioDeVerificação\bin\Debug\FormularioDeVerificação.exe
+C:\Users\JoJi\source\repos\FormularioDeVerificação\FormularioDeVerificação\bin\Debug\FormularioDeVerificação.pdb
+C:\Users\JoJi\source\repos\FormularioDeVerificação\FormularioDeVerificação\obj\Debug\FormularioDeVerificação.Form1.resources
+C:\Users\JoJi\source\repos\FormularioDeVerificação\FormularioDeVerificação\obj\Debug\FormularioDeVerificação.Properties.Resources.resources
+C:\Users\JoJi\source\repos\FormularioDeVerificação\FormularioDeVerificação\obj\Debug\FormularioDeVerificação.csproj.GenerateResource.cache
+C:\Users\JoJi\source\repos\FormularioDeVerificação\FormularioDeVerificação\obj\Debug\FormularioDeVerificação.csproj.CoreCompileInputs.cache
+C:\Users\JoJi\source\repos\FormularioDeVerificação\FormularioDeVerificação\obj\Debug\FormularioDeVerificação.exe
+C:\Users\JoJi\source\repos\FormularioDeVerificação\FormularioDeVerificação\obj\Debug\FormularioDeVerificação.pdb
+C:\Users\JoJi\source\repos\FormularioDeVerificação\FormularioDeVerificação\obj\Debug\FormularioDeVerificação.csprojAssemblyReference.cache
